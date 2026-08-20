@@ -1,4 +1,4 @@
-# MariaDB Service Manager
+# MariaDB Launcher
 
 一个基于 Windows `.bat` 批处理脚本的 **MariaDB 服务管理工具**。
 
